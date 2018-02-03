@@ -26,16 +26,24 @@
 
 ## Machine Learning
 * [The Deep Learning textbook](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
+* [Tensorflow](https://tensorflow.org) - Computation using data flow graphs for scalable machine learning
 
 ## Data
 * [Pandas](https://pandas.pydata.org/) - Python Data Analysis Library
 
+## Frontend
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+* [Project guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects
+
 ## Backend
+* [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) - Everyday-Updated Reading List For Designing High Scalability 🍒, High Availability 🔥, High Stability 🗻 Back-End Systems
 * [HTTP API design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 
 ## DevOps
 
 ## Security
+* [OWASP](https://www.owasp.org) - Open Web Application Security Project
+* [API security checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 * [Hacker101](https://github.com/Hacker0x01/hacker101) - Web security
 
 ## Git
@@ -46,4 +54,4 @@
 ## Miscellaneous
 
 ## Blog
-* [Medium](https://medium.com) -
+* [Medium](https://medium.com)
