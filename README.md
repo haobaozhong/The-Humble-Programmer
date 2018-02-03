@@ -2,6 +2,7 @@
 
 ## Learning
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books
+* [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers
 * [Computer science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science
 * [Awesome courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
@@ -10,6 +11,8 @@
 * [Coding interview university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
 * [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language
+* [How to be a programmer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
+* [Learn regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way
 
 ## Unix/Linux/Shell
 * [Linux kernel](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -41,6 +44,7 @@
 * [What happens when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?
 
 ## JavaScript
+* [Awesome javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things
 * [Modern js cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
 * [airbnb](https://github.com/airbnb/javascript) - JavaScript Style Guide
 * [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less
@@ -50,6 +54,7 @@
 * [React saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 * [Preact](https://github.com/developit/preact/) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. https://preactjs.com
 * [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources https://node.cool
+* [You don't need jquery](https://github.com/nefe/You-Dont-Need-jQuery)- Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript
 
 ## CSS
 * [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins http://postcss.org/
@@ -62,7 +67,9 @@
 * [Build web application with golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 
 ## Python
+* [Python guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans. http://docs.python-guide.org
 * [Awesome python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+* [Python patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 
 ## Java
 * [Awesome Java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language
@@ -73,11 +80,12 @@
 ## Machine Learning
 * [The Deep Learning textbook](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
 * [Machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)  - A complete daily plan for studying to become a machine learning engineer
+* [Awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 * [Tensorflow](https://tensorflow.org) - Computation using data flow graphs for scalable machine learning
 
 ## Data
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
-* [Pandas](https://pandas.pydata.org/) - Python Data Analysis Library
+* [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more http://pandas.pydata.org
 
 ## Security
 * [Awesome hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -85,6 +93,7 @@
 * [API security checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 * [Security guide for developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知) https://git.io/security
 * [Hacker101](https://github.com/Hacker0x01/hacker101) - Web security
+* [macOS security and privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A practical guide to securing macOS
 
 ## Interview
 * [Interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job
