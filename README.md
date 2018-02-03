@@ -4,6 +4,8 @@
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books
 * [Computer science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science
 * [Awesome courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
+* [Awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* [Coding interview university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
 
 ## Unix/Linux/Shell
 * [Linux kernel](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -40,7 +42,6 @@
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## Interview
-* [Coding interview university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
 
 ## Miscellaneous
 
