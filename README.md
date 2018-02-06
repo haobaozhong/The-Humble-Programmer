@@ -13,6 +13,7 @@
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language
 * [How to be a programmer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 * [Learn regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way
+* [Gold miner](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台： https://juejin.im/tag/掘金翻译计划
 
 ## Unix/Linux/Shell
 * [Linux kernel](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -25,6 +26,7 @@
 ## Git
 * [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. http://git.io/sheet
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+* [Git tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks. http://git.io/git-tips
 
 ## Backend
 * [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) - Everyday-Updated Reading List For Designing High Scalability 🍒, High Availability 🔥, High Stability 🗻 Back-End Systems
@@ -34,7 +36,9 @@
 
 ## DevOps
 * [Awesome sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP
+* [Docker cheatsheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 * [Free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. https://prometheus.io/
 
 ## Frontend
 * [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
@@ -55,6 +59,8 @@
 * [Preact](https://github.com/developit/preact/) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. https://preactjs.com
 * [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources https://node.cool
 * [You don't need jquery](https://github.com/nefe/You-Dont-Need-jQuery)- Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript
+* [Idiomatic js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [Functional programming jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms! http://git.io/fp-jargons
 
 ## CSS
 * [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins http://postcss.org/
@@ -65,11 +71,13 @@
 * [Awesome go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software https://awesome-go.com
 * [Go patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms http://tmrts.com/go-patterns
 * [Build web application with golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+* [Gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.github.io/gin/
 
 ## Python
 * [Python guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans. http://docs.python-guide.org
 * [Awesome python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 * [Python patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+* [Python3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3
 
 ## Java
 * [Awesome Java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language
@@ -82,6 +90,8 @@
 * [Machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)  - A complete daily plan for studying to become a machine learning engineer
 * [Awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 * [Tensorflow](https://tensorflow.org) - Computation using data flow graphs for scalable machine learning
+* [Bayesian methods for hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+* [Data scienece ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
 
 ## Data
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!
@@ -110,6 +120,8 @@
 * [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - This repo is a collection of awesome Mac applications and tools for developers and designers. https://git.io/macx
 * [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies https://hyper.is
+* [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! http://spacemacs.org
+* [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code https://dawnlabs.io/carbon
 
 ## Blog
 * [Medium](https://medium.com)
