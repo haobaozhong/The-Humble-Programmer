@@ -27,6 +27,7 @@
 * [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. http://git.io/sheet
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [Git tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks. http://git.io/git-tips
+* [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 
 ## Backend
 * [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability) - Everyday-Updated Reading List For Designing High Scalability 🍒, High Availability 🔥, High Stability 🗻 Back-End Systems
@@ -122,6 +123,10 @@
 * [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies https://hyper.is
 * [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! http://spacemacs.org
 * [Carbon](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code https://dawnlabs.io/carbon
+* [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+
+## Editor
+* [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Blog
 * [Medium](https://medium.com)
